@@ -48,9 +48,7 @@ The repository contains the project source files, robot and simulation configura
 
 Refer to the package configuration and launch files for the exact commands and dependencies.
 
-## Results and Demonstration
 
-Add screenshots or a short video demonstrating the robot simulation, object detection, motion planning, and pick-and-place execution, if these functions were implemented and tested.
 
 ## Learning Outcomes
 
